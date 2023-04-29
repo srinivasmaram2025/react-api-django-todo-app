@@ -7,3 +7,7 @@ django, djangorestframework, cors headers are used for backend<br>
 
 react, bootstrap, axios...etc for front end<br>
 (cd frontend, npm install start server in seprate cmd than django)
+
+
+
+still it needs add more files,,, backend is everything ok
